@@ -1,6 +1,4 @@
-good coding everyone, Paul here :D
-I got this new github account in order to contain all my future work jobs instead of using my school account.
-I like to contribute with front end react code.
-I want to also learn game development, and japanese as well!
+good coding everyone, Paul here
+Always likes contribute with front end project, share knowledge and have a little chat with enthusiasts developers.
 
-Let's begin our journey together!
+My personal goal is becoming part of the gaming industrie making my own ideas a reality.
